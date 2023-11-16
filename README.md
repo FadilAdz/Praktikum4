@@ -17,7 +17,7 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
 - Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
 
 ### Flowchart dari soal berikut : 
-![1](bener.png)
+![1](203466715-1c371874-e7ca-45c7-9a04-a5c1b0c8b9ba.png)
 
 ### Program dari soal berikut : 
 ![2](bener.png)
